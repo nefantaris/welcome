@@ -1,0 +1,12 @@
+{
+    "name": "welcome",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "nef dev",
+        "build": "nef build"
+    },
+    "devDependencies": {
+        "@nefantaris/core": "file:../nefantaris-core"
+    }
+}
