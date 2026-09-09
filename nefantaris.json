@@ -1,13 +1,17 @@
 {
-    "name": "welcome",
+    "name": "Welcome",
     "theme": {
         "source": "https://github.com/nefantaris/nefantaris-theme-base",
-        "version": "079bed589caf5f134704e779133b075437f7448a"
+        "version": "0a9dae4fef8a46d7052aa9f72315e0d1ddccb689"
     },
     "nav": [
         {
             "label": "Home",
             "href": "/"
+        },
+        {
+            "label": "Blog",
+            "href": "/blog"
         },
         {
             "label": "About",
