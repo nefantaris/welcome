@@ -1,8 +1,8 @@
 {
     "name": "welcome",
     "theme": {
-        "source": "../nefantaris-theme-base",
-        "version": "local"
+        "source": "https://github.com/nefantaris/nefantaris-theme-base",
+        "version": "079bed589caf5f134704e779133b075437f7448a"
     },
     "nav": [
         {
@@ -15,6 +15,10 @@
         }
     ],
     "plugins": [
-        "nefantaris-plugin-date-fns"
+        {
+            "name": "nefantaris-plugin-date-fns",
+            "source": "https://github.com/nefantaris/nefantaris-plugin-date-fns",
+            "version": "cf1b73f14f2a5fb8d70d2959db13f3cd993a49d2"
+        }
     ]
 }
