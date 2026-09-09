@@ -1,0 +1,19 @@
+nefantaris.json
+  s_77e635b65a3b96::t_d6535e263b35f1 7-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "594bfb1e1c040a30d4fb809273b049f014df9cec",
+  "prompts": {},
+  "sessions": {
+    "s_77e635b65a3b96": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af9eb310-625d-4060-a50f-46bad52a90be",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "adamjsturge <adamjsturge@gmail.com>"
+    }
+  }
+}
