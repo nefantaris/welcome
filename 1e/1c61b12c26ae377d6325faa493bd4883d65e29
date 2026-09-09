@@ -1,0 +1,23 @@
+nefantaris.json
+  s_f9ce290d2ecf42::t_c86e46532ffa6a 4-5,18-22
+package.json
+  s_f9ce290d2ecf42::t_c86e46532ffa6a 10
+package-lock.json
+  s_f9ce290d2ecf42::t_6f560898766e80 11,14,16-17,35-1466
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1e1c61b12c26ae377d6325faa493bd4883d65e29",
+  "prompts": {},
+  "sessions": {
+    "s_f9ce290d2ecf42": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7ec3ec36-54af-4884-b4ac-4c92ed4ca620",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "adamjsturge <adamjsturge@gmail.com>"
+    }
+  }
+}
