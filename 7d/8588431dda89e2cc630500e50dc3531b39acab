@@ -1,0 +1,26 @@
+content/posts/hello-world.md
+  s_77e635b65a3b96::t_aa0e5c4a9a96f7 2-3,7-9,11-12
+content/pages/index.md
+  s_77e635b65a3b96::t_aa0e5c4a9a96f7 2-3,6-9,11,13-36
+nefantaris.json
+  s_77e635b65a3b96::t_aa0e5c4a9a96f7 2,5,12-14
+  s_77e635b65a3b96::t_a4b36cbc3ec43e 15
+content/pages/about.md
+  s_77e635b65a3b96::t_aa0e5c4a9a96f7 3,6-9,11,13-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7d8588431dda89e2cc630500e50dc3531b39acab",
+  "prompts": {},
+  "sessions": {
+    "s_77e635b65a3b96": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af9eb310-625d-4060-a50f-46bad52a90be",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "adamjsturge <adamjsturge@gmail.com>"
+    }
+  }
+}
