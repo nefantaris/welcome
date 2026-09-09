@@ -4,6 +4,9 @@
         "source": "https://github.com/nefantaris/nefantaris-theme-base",
         "version": "v0.1.0"
     },
+    "modes": {
+        "default": "dark"
+    },
     "nav": [
         {
             "label": "Home",
