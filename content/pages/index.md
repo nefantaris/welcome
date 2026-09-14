@@ -3,10 +3,15 @@ title: A website that lives in a git repository.
 description: Every page here is a markdown file. Nefantaris turns the folder into a fast, prerendered site, and Cloudflare Pages serves it. No database, no admin panel.
 ---
 
-:::buttons
-- [Read the blog](/blog)
-- [How it is built](/about)
+Get started with one command.
+
+:::command
+```sh
+npx create-nef my-site
+```
 :::
+
+Then `cd my-site` and `npm run dev`. An editor is coming soon.
 
 ## What this is
 
@@ -34,3 +39,8 @@ setting with no script involved.
 Change the title and description at the top of `content/pages/index.md` and
 this hero changes with it. Add a page, add a post, swap the theme in
 `nefantaris.json`. Publishing is a commit.
+
+:::buttons
+- [How it is built](/about)
+- [Read the blog](/blog)
+:::
