@@ -7,6 +7,6 @@
         "build": "nef build"
     },
     "devDependencies": {
-        "@nefantaris/core": "0.4.0"
+        "@nefantaris/core": "0.4.1"
     }
 }
